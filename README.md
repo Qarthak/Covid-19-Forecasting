@@ -1,5 +1,5 @@
 # Covid-19-Forecasting
-Attempted to predict the third wave of Covid 19 using Neucube. Tested our model by trying to predict the second wave
+Attempted to predict the third wave of Covid 19 using Neucube. Tested our model by trying to predict the second wave and got a RMSE(Root mean square Error) of 0.05 (fig 19)
 
 ![Covid_19_Data_Forecasting_using_Neucube10241024_1](https://user-images.githubusercontent.com/81775691/147254754-bc1ac60d-ff7a-4cad-ae7c-aa9f4fe49bc4.jpg)
 ![Covid_19_Data_Forecasting_using_Neucube10241024_2](https://user-images.githubusercontent.com/81775691/147254769-9ff24db7-7db1-463d-bf93-fd061e063c2e.jpg)
