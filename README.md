@@ -6,5 +6,6 @@ Attempted to predict the third wave of Covid 19 using Neucube. Tested our model 
 ![Covid_19_Data_Forecasting_using_Neucube10241024_3](https://user-images.githubusercontent.com/81775691/147254774-666f7d58-bea6-4513-b0ba-40ea9dfbb716.jpg)
 ![Covid_19_Data_Forecasting_using_Neucube10241024_4](https://user-images.githubusercontent.com/81775691/147254781-833fb59f-4db5-4549-8d6d-2cddaaf2dfe5.jpg)
 ![Covid_19_Data_Forecasting_using_Neucube10241024_5](https://user-images.githubusercontent.com/81775691/147254782-66b20476-db65-4f7c-9132-95764733d5f6.jpg)
-![Covid_19_Data_Forecasting_using_Neucube10241024_6](https://user-images.githubusercontent.com/81775691/147254785-1a38c2b0-a801-4a06-afd3-c8def198d036.jpg)
 ![Covid_19_Data_Forecasting_using_Neucube10241024_7](https://user-images.githubusercontent.com/81775691/147254788-768049b3-1632-4c33-8fe2-a875b70938c3.jpg)
+![Covid_19_Data_Forecasting_using_Neucube10241024_6](https://user-images.githubusercontent.com/81775691/147254785-1a38c2b0-a801-4a06-afd3-c8def198d036.jpg)
+
